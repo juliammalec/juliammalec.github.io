@@ -1,0 +1,22 @@
+@import "{{ site.theme }}";
+
+.page-header {
+  background-color: #1e3a8a; /* your header color */
+  background-image: none;
+}
+
+.project-name {
+  color: #ffffff;
+}
+
+.project-tagline {
+  color: #cbd5e1;
+}
+
+body {
+  color: #222;
+}
+
+a {
+  color: #2563eb;
+}
