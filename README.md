@@ -1,1 +1,1 @@
-# Julia Malec Personal Webpage
+<h1 style="color: #4ca3af;">Julia Malec Personal Webpage</h1>
