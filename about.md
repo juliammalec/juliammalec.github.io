@@ -1,1 +1,0 @@
-<h1 style="color: #4ca3af;">About me</h1>
