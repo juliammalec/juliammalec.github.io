@@ -3,7 +3,7 @@
 <head>
   <title>Personal Webpage</title>
 </head>
-<body>
+<body style="color: black;">
 
 <h1 style="color: #4ca3af;">Personal Webpage</h1>
 
