@@ -7,7 +7,7 @@
 <h1 style="color: #4ca3af;">Personal Webpage</h1>
 
 <p>
-I am a graduate student researcher in computational biology, working at the intersection of large-scale protein and genomic data analysis and clinically meaningful discovery. My work is driven by the goal of translating complex biological data into insights that can ultimately impact human health.
+I am a graduate student researcher in computational biology, working at the intersection of large-scale protein and genomic data analysis and clinically meaningful discovery. I am interested in applying artificial intelligence to biological and biomedical data to help uncover meaningful patterns and insights. My work is driven by the goal of translating complex biological data into insights that can ultimately impact human health.
 </p>
 
 <p>
